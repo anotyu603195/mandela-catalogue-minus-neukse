@@ -1,0 +1,31 @@
+{
+	"storyName": "Nothing is worth the Risk",
+	"difficulties": "",
+	"hideFreeplay": false,
+	"weekBackground": "alternate",
+	"freeplayColor": [
+		146,
+		113,
+		253
+	],
+	"weekBefore": "tutorial",
+	"startUnlocked": true,
+	"weekCharacters": [
+		"",
+		"",
+		""
+	],
+	"songs": [
+		[
+			"Undergoing Risk",
+			"alternate",
+			[
+				0,
+				0,
+				0
+			]
+		]
+	],
+	"hideStoryMode": false,
+	"weekName": "Alternate"
+}
